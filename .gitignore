@@ -1,3 +1,6 @@
 olist.db
 Analyse_data_rapport
 .vscode
+.gitignore
+df_preprocessing.csv
+df_preprocessing_test.csv
